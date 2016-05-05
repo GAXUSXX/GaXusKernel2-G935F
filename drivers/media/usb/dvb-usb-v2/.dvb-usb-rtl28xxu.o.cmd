@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb-v2/dvb-usb-rtl28xxu.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/media/usb/dvb-usb-v2/dvb-usb-rtl28xxu.o drivers/media/usb/dvb-usb-v2/rtl28xxu.o 

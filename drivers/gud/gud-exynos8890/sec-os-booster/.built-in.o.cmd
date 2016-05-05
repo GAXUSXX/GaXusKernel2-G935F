@@ -1,0 +1,1 @@
+cmd_drivers/gud/gud-exynos8890/sec-os-booster/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/gud/gud-exynos8890/sec-os-booster/built-in.o drivers/gud/gud-exynos8890/sec-os-booster/sec_os_booster.o 

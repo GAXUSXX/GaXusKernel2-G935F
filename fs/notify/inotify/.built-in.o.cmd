@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o fs/notify/inotify/built-in.o fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o 

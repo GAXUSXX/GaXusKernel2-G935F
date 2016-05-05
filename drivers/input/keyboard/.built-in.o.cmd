@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/atkbd.o drivers/input/keyboard/gpio_keys.o drivers/input/keyboard/samsung-keypad.o drivers/input/keyboard/abov_touchkey.o 

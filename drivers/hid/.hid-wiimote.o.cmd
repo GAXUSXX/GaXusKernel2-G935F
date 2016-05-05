@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-wiimote.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/hid/hid-wiimote.o drivers/hid/hid-wiimote-core.o drivers/hid/hid-wiimote-modules.o drivers/hid/hid-wiimote-debug.o 

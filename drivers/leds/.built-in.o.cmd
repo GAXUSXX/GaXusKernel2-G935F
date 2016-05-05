@@ -1,0 +1,1 @@
+cmd_drivers/leds/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/led-triggers.o drivers/leds/leds-s2mpb02.o drivers/leds/leds-max77854-rgb.o drivers/leds/trigger/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/soc/samsung/pm_domains/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/soc/samsung/pm_domains/built-in.o drivers/soc/samsung/pm_domains/pm_domains-cal.o drivers/soc/samsung/pm_domains/pm_domains_sysfs.o 

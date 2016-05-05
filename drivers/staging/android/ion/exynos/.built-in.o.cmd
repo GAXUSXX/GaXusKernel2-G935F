@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/exynos/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/staging/android/ion/exynos/built-in.o drivers/staging/android/ion/exynos/exynos_ion.o 

@@ -1,0 +1,1 @@
+cmd_drivers/fingerprint/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/fingerprint/built-in.o drivers/fingerprint/fingerprint_sysfs.o drivers/fingerprint/vfs7xxx.o drivers/fingerprint/et320-spi.o drivers/fingerprint/et320-spi_data_transfer.o 

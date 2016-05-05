@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/aer/aerdriver.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/pci/pcie/aer/aerdriver.o drivers/pci/pcie/aer/aerdrv_errprint.o drivers/pci/pcie/aer/aerdrv_core.o drivers/pci/pcie/aer/aerdrv.o 

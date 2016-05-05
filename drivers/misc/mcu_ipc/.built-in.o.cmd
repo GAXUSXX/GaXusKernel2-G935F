@@ -1,0 +1,1 @@
+cmd_drivers/misc/mcu_ipc/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/mcu_ipc/built-in.o drivers/misc/mcu_ipc/mcu_ipc.o drivers/misc/mcu_ipc/shm_ipc.o 

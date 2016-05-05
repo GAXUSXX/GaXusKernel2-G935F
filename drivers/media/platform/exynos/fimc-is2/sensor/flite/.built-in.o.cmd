@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/exynos/fimc-is2/sensor/flite/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/media/platform/exynos/fimc-is2/sensor/flite/built-in.o drivers/media/platform/exynos/fimc-is2/sensor/flite/fimc-is-hw-flite-v4_20_0.o 

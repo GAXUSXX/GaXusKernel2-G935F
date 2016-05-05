@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/net/wireless/ath/ath.o drivers/net/wireless/ath/main.o drivers/net/wireless/ath/regd.o drivers/net/wireless/ath/hw.o drivers/net/wireless/ath/key.o drivers/net/wireless/ath/dfs_pattern_detector.o drivers/net/wireless/ath/dfs_pri_detector.o 

@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/usb/serial/built-in.o drivers/usb/serial/usbserial.o drivers/usb/serial/ftdi_sio.o drivers/usb/serial/pl2303.o 

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/exynos/scaler/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/media/platform/exynos/scaler/built-in.o drivers/media/platform/exynos/scaler/scaler.o 

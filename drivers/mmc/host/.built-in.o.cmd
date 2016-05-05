@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/mmc/host/built-in.o drivers/mmc/host/dw_mmc.o drivers/mmc/host/dw_mmc-pltfm.o drivers/mmc/host/dw_mmc-exynos.o 

@@ -1,0 +1,1 @@
+cmd_drivers/pci/host/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/pci/host/built-in.o drivers/pci/host/pcie-designware.o drivers/pci/host/pci-exynos.o 

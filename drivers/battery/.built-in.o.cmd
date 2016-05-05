@@ -1,0 +1,1 @@
+cmd_drivers/battery/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/battery/built-in.o drivers/battery/sec_battery.o drivers/battery/sec_adc.o drivers/battery/sec_battery_data.o drivers/battery/max77854_fuelgauge.o drivers/battery/max77854_charger.o drivers/battery/p9220_charger.o 

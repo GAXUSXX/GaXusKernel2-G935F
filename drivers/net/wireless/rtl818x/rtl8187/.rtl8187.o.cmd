@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl818x/rtl8187/rtl8187.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/net/wireless/rtl818x/rtl8187/rtl8187.o drivers/net/wireless/rtl818x/rtl8187/dev.o drivers/net/wireless/rtl818x/rtl8187/rtl8225.o drivers/net/wireless/rtl818x/rtl8187/leds.o drivers/net/wireless/rtl818x/rtl8187/rfkill.o 

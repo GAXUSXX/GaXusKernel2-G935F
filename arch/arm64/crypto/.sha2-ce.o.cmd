@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/sha2-ce.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o arch/arm64/crypto/sha2-ce.o arch/arm64/crypto/sha2-ce-glue.o arch/arm64/crypto/sha2-ce-core.o 

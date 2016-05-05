@@ -1,0 +1,1 @@
+cmd_drivers/scsi/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/scsi/built-in.o drivers/scsi/scsi_mod.o drivers/scsi/ufs/built-in.o drivers/scsi/sd_mod.o 

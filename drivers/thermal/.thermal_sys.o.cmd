@@ -1,0 +1,1 @@
+cmd_drivers/thermal/thermal_sys.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/thermal/thermal_sys.o drivers/thermal/thermal_core.o drivers/thermal/thermal_hwmon.o drivers/thermal/of-thermal.o drivers/thermal/step_wise.o drivers/thermal/samsung/cpu_cooling.o drivers/thermal/samsung/gpu_cooling.o drivers/thermal/samsung/isp_cooling.o 

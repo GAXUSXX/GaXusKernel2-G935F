@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/exynos/decon_8890/dsim.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/video/fbdev/exynos/decon_8890/dsim.o drivers/video/fbdev/exynos/decon_8890/dsim_drv.o drivers/video/fbdev/exynos/decon_8890/dsim_reg_8890.o 

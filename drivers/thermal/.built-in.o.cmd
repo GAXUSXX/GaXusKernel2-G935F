@@ -1,0 +1,1 @@
+cmd_drivers/thermal/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/thermal/built-in.o drivers/thermal/thermal_sys.o drivers/thermal/samsung/built-in.o drivers/thermal/ipa.o 

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/sec_ts/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/input/touchscreen/sec_ts/built-in.o drivers/input/touchscreen/sec_ts/sec_ts.o drivers/input/touchscreen/sec_ts/sec_ts_fw.o drivers/input/touchscreen/sec_ts/sec_ts_fn.o 

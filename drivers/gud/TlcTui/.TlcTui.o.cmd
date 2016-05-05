@@ -1,0 +1,1 @@
+cmd_drivers/gud/TlcTui/TlcTui.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/gud/TlcTui/TlcTui.o drivers/gud/TlcTui/main.o drivers/gud/TlcTui/tlcTui.o drivers/gud/TlcTui/trustedui.o drivers/gud/TlcTui/platforms/exynos8890/tui-hal.o 

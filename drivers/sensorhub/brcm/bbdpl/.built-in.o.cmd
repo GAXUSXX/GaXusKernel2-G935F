@@ -1,0 +1,1 @@
+cmd_drivers/sensorhub/brcm/bbdpl/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/sensorhub/brcm/bbdpl/built-in.o drivers/sensorhub/brcm/bbdpl/bcm_gps_spi.o drivers/sensorhub/brcm/bbdpl/bbd_rpc_lh.o drivers/sensorhub/brcm/bbdpl/bbd.o 

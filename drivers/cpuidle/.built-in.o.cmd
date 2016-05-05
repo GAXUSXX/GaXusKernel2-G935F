@@ -1,0 +1,1 @@
+cmd_drivers/cpuidle/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/cpuidle/built-in.o drivers/cpuidle/cpuidle.o drivers/cpuidle/driver.o drivers/cpuidle/governor.o drivers/cpuidle/sysfs.o drivers/cpuidle/governors/built-in.o drivers/cpuidle/dt_idle_states.o drivers/cpuidle/cpuidle-exynos64.o drivers/cpuidle/cpuidle_profiler.o 

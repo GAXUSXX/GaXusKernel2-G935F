@@ -1,0 +1,1 @@
+cmd_drivers/trace/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/trace/built-in.o drivers/trace/exynos8890-busmon.o drivers/trace/exynos-ss.o drivers/trace/exynos-coresight.o 

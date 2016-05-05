@@ -1,0 +1,1 @@
+cmd_security/integrity/integrity.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o security/integrity/integrity.o security/integrity/iint.o security/integrity/integrity_audit.o 

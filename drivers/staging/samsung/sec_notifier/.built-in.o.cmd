@@ -1,0 +1,1 @@
+cmd_drivers/staging/samsung/sec_notifier/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/staging/samsung/sec_notifier/built-in.o drivers/staging/samsung/sec_notifier/vbus_notifier.o 

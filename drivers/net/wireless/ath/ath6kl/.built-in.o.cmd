@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath6kl/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/net/wireless/ath/ath6kl/built-in.o drivers/net/wireless/ath/ath6kl/ath6kl_core.o drivers/net/wireless/ath/ath6kl/ath6kl_usb.o 

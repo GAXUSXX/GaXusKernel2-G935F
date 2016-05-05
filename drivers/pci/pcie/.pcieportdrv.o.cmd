@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/pcieportdrv.o := /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/pci/pcie/pcieportdrv.o drivers/pci/pcie/portdrv_core.o drivers/pci/pcie/portdrv_pci.o drivers/pci/pcie/portdrv_bus.o 

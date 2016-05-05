@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/exynos/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/video/fbdev/exynos/built-in.o drivers/video/fbdev/exynos/exynos_mipi_dsi.o drivers/video/fbdev/exynos/exynos_mipi_dsi_common.o drivers/video/fbdev/exynos/exynos_mipi_dsi_lowlevel.o drivers/video/fbdev/exynos/decon_8890/built-in.o 

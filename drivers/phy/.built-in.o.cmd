@@ -1,0 +1,1 @@
+cmd_drivers/phy/built-in.o :=  /home/gaxus/nexus5/toolchain64/bin/aarch64-linux-android-ld -EL    -r -o drivers/phy/built-in.o drivers/phy/phy-core.o drivers/phy/phy-exynos-mipi.o drivers/phy/phy-exynos-usbdrd.o drivers/phy/phy-samsung-usb3-cal.o 
